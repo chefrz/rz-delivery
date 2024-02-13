@@ -1,6 +1,6 @@
 ![image](https://cdn.discordapp.com/attachments/1186357096216801381/1205669207421755432/delivery.png?ex=65d935f3&is=65c6c0f3&hm=623badee809bb21ce3395c27b58f0466e4f0c06d0ad6924d5c6338d845558ef1&)
 
-# rz-motel
+# rz-delivery
 - Delivery Script [QBCORE]
 - New QBCore
 
