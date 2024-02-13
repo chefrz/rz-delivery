@@ -7,7 +7,7 @@
 ## Video Showcase
 - https://youtu.be/w5jyDzxdCtE
 ## Discord
-- https://discord.gg/zertxMj7Y
+- https://discord.gg/3JHgCdUFtG
 
 
 ## Features
